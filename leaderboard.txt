@@ -1,8 +1,0 @@
-Welcome to the Ultimate Quiz Game!
-Rules:
-
-Choose your category: Science, History, Sports, Movies, or Technology.
-Pick a difficulty: High / Moderate / Low.
-You have 10 seconds to answer each question.
-Every 3 questions, you may play a mini-game to boost your score!
-Earn points, rewards, and see your rank on the leaderboard!
